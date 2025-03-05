@@ -4,7 +4,7 @@
 
 This **SAP HANA Cloud Platform, API management repository** provides samples of API proxies and applications, showcasing the capabilities of *SAP HANA Cloud Platform, API management* to deliver APIs protected by state-of-the-art authentication mechanisms and security policies (API Keys, basic authentication, SAML tokens, SQL threat protection) to effectively secure access to your data and services and protecting them for consumption in the cloud using quotas, spike arrests and URL rewriting.
 
-An *API Proxy* is a representation of a HTTP-based service that abstracts the actual proxy endpoint properties on one end and the actual target endpoint (the endpoint that is relevant for the end user to invoke) on the other end. Additionally it includes properties that describe the policies that can be invoked on the API. *Policies* define a set of rules (such as enforcing security and controlling traffic) that is applied on the API. More information on supported policies is available at [help.sap.com](https://help.hana.ondemand.com/apim_od/frameset.htm?7e4f3e590f164996994cddc8e48bf7f5.html)
+An *API Proxy* is a representation of a HTTP-based service that abstracts the actual proxy endpoint properties on one end and the actual target endpoint (the endpoint that is relevant for the end user to invoke) on the other end. Additionally it includes properties that describe the policies that can be invoked on the API. *Policies* define a set of rules (such as enforcing security and controlling traffic) that is applied on the API. More information on supported policies is available at [help.sap.com]
 
 The graphical user interface of API Management is itself API-based, permitting extensions and customizations. A sample is given in the [*cloudportaltemplate*](./cloudportaltemplate) sub folder.
 
@@ -32,12 +32,12 @@ The graphical user interface of API Management is itself API-based, permitting e
 
 ##API Proxy Structure Format
 
-API Proxies samples are available in each sample folder under the sub folder *APIProxy*. The sample shared are in the API Proxy structure of SAP HCP, API management which is described in [link](https://help.hana.ondemand.com/apim_od/frameset.htm?4dfd54a7546c42cfb8dd157ab1355011.html). 
+API Proxies samples are available in each sample folder under the sub folder *APIProxy*. The sample shared are in the API Proxy structure of SAP HCP, API management which is described in [link] . 
 
 ##How to use the Sample
 
 * Click on the *.zip file available in each example folders  and then click on the "View Raw" Link or "Download" button to download the sample.
-* Import the Downloaded API Proxy zip into your SAP HCP, API management tenancy. Additional instruction for this is available in [link](https://help.hana.ondemand.com/apim_od/frameset.htm?9342a932441e45cd9636eb0a01a89958.html).
+* Import the Downloaded API Proxy zip into your SAP HCP, API management tenancy. Additional instruction for this is available in [link].
 
 ##Custom API Developer Portal Sample
 
