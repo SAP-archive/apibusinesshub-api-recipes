@@ -1,5 +1,8 @@
 # Welcome to SAP API Business Hub Community for API Recipes
-\| [Browse by Topic](./api-recipes-by-usecase.md) \| [Browse by Type](./api-recipes-by-type.md) \| [Request a Recipe](https://github.com/SAP-samples/apibusinesshub-api-recipes/issues/new?assignees=&labels=Recipe%20Request&template=recipe-request.md&title=How+to++) \| [Report a broken link](https://github.com/SAP-samples/apibusinesshub-api-recipes/issues/new?assignees=&labels=documentation&template=bug_report.md&title=Broken%20Link) \|
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/apibusinesshub-api-recipes)](https://api.reuse.software/info/github.com/SAP/apibusinesshub-api-recipes)
+
+\| [Browse by Topic](./api-recipes-by-usecase.md) \| [Browse by Type](./api-recipes-by-type.md) \| [Request a Recipe](https://github.com/SAP/apibusinesshub-api-recipes/issues/new?assignees=&labels=Recipe%20Request&template=recipe-request.md&title=How+to++) \| [Report a broken link](https://github.com/SAP/apibusinesshub-api-recipes/issues/new?assignees=&labels=documentation&template=bug_report.md&title=Broken%20Link) \|
 
 [**SAP API Management**](https://www.sap.com/products/cloud-platform/capabilities/integration.api-management.html) provides enterprises a comprehensive solution to address all API needs, with features such as API provisioning and publishing, API discovery and consumption, security and access control, analytics and reporting, monitoring and operations and developer portal, [learn more](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_API_MANAGEMENT/Cloud/en-US).  
 
@@ -33,10 +36,6 @@ Refer to this blog on  [how to consume policy templates](https://blogs.sap.com/2
 * [Browse by topic](api-recipes-by-usecase.md)
 * [Browse by type](api-recipes-by-type.md)
 
-## Custom API Developer Portal Sample
-
-[Cloud Portal Template](./cloudportaltemplate) in the *cloudportaltemplate* sub folder contains a sample website project that uses SAP HCP, Portal Service to build a custom API Management Developer Portal. This is helpful in scenarios where API creators want to give their developers features not present in the standard API Management Developer Portal.
-
 ## How to obtain support?
 * [Request a Recipe](https://github.com/SAP-samples/apibusinesshub-api-recipes/issues/new?assignees=&labels=Recipe%20Request&template=recipe-request.md&title=How+to++)
 * [Report a broken link](https://github.com/SAP-samples/apibusinesshub-api-recipes/issues/new?assignees=&labels=documentation&template=bug_report.md&title=Broken%20Link)
@@ -45,6 +44,5 @@ Refer to this blog on  [how to consume policy templates](https://blogs.sap.com/2
 ## Contributing
 Contribute to this repository with reusable content or samples. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
-## LICENSE
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP SAMPLE CODE LICENSE FOR DEVELOPED APPLICATIONS except as noted otherwise in the [LICENSE](LICENSE).
+## Licensing
+Copyright 2016-2021 SAP SE or an SAP affiliate company and apibusinesshub-api-recipes contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/apibusinesshub-api-recipes).
